@@ -60,13 +60,15 @@
 			"type": "whenNode",
 			"id": "whenNode-1107479d-c492-4c4d-b46c-7358152fac58",
 			"position": {
-				"x": 300,
-				"y": 200
+				"x": 344,
+				"y": 306
 			},
 			"measured": {
 				"width": 110,
 				"height": 60
-			}
+			},
+			"selected": false,
+			"dragging": false
 		},
 		{
 			"data": {
@@ -99,13 +101,15 @@
 			"type": "callNode",
 			"id": "callNode-47cc352e-e249-4bab-bece-3db5ffe26f04",
 			"position": {
-				"x": 550,
-				"y": 200
+				"x": 572,
+				"y": 61
 			},
 			"measured": {
 				"width": 170,
 				"height": 124
-			}
+			},
+			"selected": false,
+			"dragging": false
 		},
 		{
 			"data": {
@@ -129,13 +133,15 @@
 			"type": "logNode",
 			"id": "logNode-cd33415c-bfdc-42dd-8fe0-20d689d24d6a",
 			"position": {
-				"x": 800,
-				"y": 200
+				"x": 798,
+				"y": 256
 			},
 			"measured": {
 				"width": 170,
 				"height": 124
-			}
+			},
+			"selected": false,
+			"dragging": false
 		},
 		{
 			"data": {
@@ -164,13 +170,15 @@
 			"type": "callNode",
 			"id": "callNode-59169a0a-71e0-46f2-81bf-42f85909d122",
 			"position": {
-				"x": 1050,
-				"y": 200
+				"x": 1061,
+				"y": 101
 			},
 			"measured": {
 				"width": 170,
 				"height": 124
-			}
+			},
+			"selected": true,
+			"dragging": false
 		},
 		{
 			"data": {
@@ -513,7 +521,7 @@
 				"width": 170,
 				"height": 124
 			},
-			"selected": true
+			"selected": false
 		}
 	],
 	"edges": [
